@@ -1,5 +1,3 @@
----
-
 # Privacy Policy - NordicLabs Boarding Bluster
 
 **Effective Date:** November 1, 2026
